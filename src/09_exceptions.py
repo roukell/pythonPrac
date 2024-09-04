@@ -1,4 +1,4 @@
-filename = "my_file.txt"
+filename = "../misc/my_file.txt"
 
 try:
     f = open(filename, "r")
